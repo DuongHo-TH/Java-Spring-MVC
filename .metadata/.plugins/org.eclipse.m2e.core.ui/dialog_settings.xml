@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Java8-Spring\Sample-Final"/>
+			<item value="D:\Java8-Spring\Spring-Final"/>
+			<item value="D:\Java8-Spring"/>
+			<item value="D:\Java-Spring\springmvc-sudungmay-master"/>
+			<item value="D:\Java8-Spring\demo"/>
+			<item value="D:\Java8-Spring\SpringMVC-General"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="SpringMVC.Spring_Sample"/>
+			<item value="SpringMVC.Sample_Final"/>
+			<item value="faca.training.controller"/>
+			<item value="SpringMVC.Spring_MVC_Genneral"/>
+			<item value="BaiTapServlet"/>
+			<item value="BaiTapServlet.DemoBeanSpring"/>
+			<item value="BaiTapServlet.DemoGiaoVien"/>
+			<item value="BaiTapServlet.BaiTapServlet"/>
+			<item value="demo.demo"/>
+			<item value="fa.duongho.SpringMVC_General"/>
+		</list>
+		<list key="groupId">
+			<item value="SpringMVCFinal"/>
+			<item value="SpringMVC"/>
+			<item value="BaiTapServlet"/>
+			<item value="demo"/>
+			<item value="fa.duongho"/>
+		</list>
+		<list key="artifactId">
+			<item value="Spring-MVC-Final"/>
+			<item value="Spring-Sample"/>
+			<item value="Sample-Final"/>
+			<item value="Spring-Sample-Final"/>
+			<item value="Spring-MathError"/>
+			<item value="Spring-Final"/>
+			<item value="Spring-MVC-Genneral"/>
+			<item value="DemoBeanSpring"/>
+			<item value="DemoGiaoVien"/>
+			<item value="BaiTapServlet"/>
+			<item value="demo"/>
+			<item value="SpringMVC-General"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0"/>
+		</list>
+	</section>
+</section>

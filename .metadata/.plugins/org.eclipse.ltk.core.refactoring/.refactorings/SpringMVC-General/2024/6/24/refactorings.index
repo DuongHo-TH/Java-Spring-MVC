@@ -1,0 +1,48 @@
+1718380738284	Delete element
+1718382733042	Move file
+1718383217533	Delete element
+1718416721086	Rename type 'JstView'
+1718417850814	Copy file
+1718418213704	Move folder
+1718418427883	Delete element
+1718427010230	Rename package 'fa.training.dao'
+1718441329884	Move package
+1718442695390	Move package
+1718442825698	Move file
+1718442831901	Copy file
+1718442837428	Copy file
+1718442870292	Move folder
+1718443091531	Move file
+1718443147219	Move file
+1718443199745	Move file
+1718443240107	Move file
+1718443242984	Move file
+1718443368117	Move file
+1718443581092	Move package
+1718444442950	Move file
+1718444444927	Move file
+1718444450159	Move file
+1718444453897	Move file
+1718444457615	Move file
+1718444462895	Delete element
+1718444468053	Delete element
+1718444474053	Delete element
+1718444478147	Delete element
+1718444489117	Rename type 'MayController'
+1718445045970	Rename resource 'Hello.jsp'
+1718445094985	Rename resource 'trang-chu.jsp'
+1718445222123	Copy folder
+1718445792387	Move folder
+1718448515382	Copy folder
+1718448924423	Rename package 'faca.training.dao'
+1718448942262	Rename type 'DichVuDao'
+1718448991877	Rename type 'KhachDao'
+1718449011340	Rename type 'MayDao'
+1718449198818	Rename type 'SuDungDichVuDao'
+1718449213545	Rename type 'SuDungMayDao'
+1718449253024	Rename package 'faca.training.services'
+1718449270560	Rename type 'DichVuServices'
+1718449283304	Rename type 'KhachServices'
+1718449297581	Rename type 'MayServices'
+1718449311699	Rename type 'SuDungDichVuServices'
+1718449321181	Rename type 'SuDungMayServices'
